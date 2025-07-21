@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "browserTools": {
+      "command": "npx",
+      "args": ["@agentdeskai/browser-tools-mcp@latest"]
+    }
+  }
+}
